@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+
+  <view class="usermotto">
+    <view class="user-motto">{{motto}}</view>
+    <view class="user-motto">一切从这里开始</view>
+  </view>
+
+
+  
+</view>
